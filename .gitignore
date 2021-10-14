@@ -1,0 +1,11 @@
+miniprogram-demo/uploadCloudFunction.sh
+__pycache__
+.idea
+tmp
+.DS_Store
+ziptestcase.sh
+testcase.zip
+testcase/outputs
+.vscode
+outputs
+/config.json
